@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.dreieckjls.triangle
+Version: 1.0
+Section: Tweaks
+Maintainer: dreieckjls
+Depends: firmware (<13.7)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dreieckjls.triangle_0.0.1-4+debug_iphoneos-arm.deb
+Size: 2914
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: test junge
+Name: Triangle
+Author: dreieckjls
+Depiction: 
+
