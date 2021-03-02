@@ -5,7 +5,7 @@ Maintainer: dreieckjls
 Depends: firmware (>13.7), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dreieckjls.triangle_0.0.1-3+debug_iphoneos-arm
-Size: 854
+Size: 2910
 Description: concept
 Name: Triangle
 Author: dreieckjls
